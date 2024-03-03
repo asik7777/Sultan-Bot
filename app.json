@@ -20,6 +20,7 @@
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
+            "value": "6521244808:AAFxGhDqQhaLJazWW5ERIVj15C_bmupudrI",
             "required": true
         },
         "API_ID": {
@@ -34,6 +35,7 @@
         },
         "CHANNELS": {
             "description": "Username or ID of channel or group. Separate multiple IDs by space.",
+            "value": "-1001824976628",
             "required": false
         },
         "ADMINS": {
@@ -43,7 +45,7 @@
         },
         "PICS": {
             "description": "Add some telegraph link of pictures .",
-            "value": "https://telegra.ph/file/e96eed4464f94ce6712d6.jpg https://telegra.ph/file/5fa2bb20bbce91ea4739a.jpg https://telegra.ph/file/586b08b41d009cb02716a.jpg",
+            "value": "https://telegra.ph/file/b9aa484df70aaf6cdf84c.jpg",
             "required": false
         },
         "LOG_CHANNEL": {
@@ -57,11 +59,12 @@
         },
         "AUTH_CHANNEL": {
             "description": "ID of channel.Make sure bot is admin in this channel. Without subscribing this channel users cannot use bot.",
-            "value": "",
+            "value": "-1001767321870",
             "required": false
         },
         "DATABASE_URI": {
             "description": "mongoDB URI. Get this value from https://www.mongodb.com. For more help watch this video - https://youtu.be/dsuTn4qV2GA",
+            "value": "mongodb+srv://Sultan2001:Sultan2001@cluster0.1tq1uld.mongodb.net/?retryWrites=true&w=majority",
             "required": true
         },
         "DATABASE_NAME": {
@@ -81,7 +84,7 @@
         },
         "STREAM_URL": {
             "description": "Your Stream FQDN URL",
-            "value": "https://filestream-8acd50e51f9c.herokuapp.com/",
+            "value": "https://filmymod123-9033086b7287.herokuapp.com/",
             "required": false
         }
     },
@@ -95,4 +98,4 @@
             "size": "basic"
         }
     }
-}
+        }

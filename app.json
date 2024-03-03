@@ -35,22 +35,22 @@
         },
         "CHANNELS": {
             "description": "Username or ID of channel or group. Separate multiple IDs by space.",
-            "value": "-1001824976628",
+            "value": "-1001948579377",
             "required": false
         },
         "ADMINS": {
             "description": "Username or ID of Admin. Separate multiple Admins by space.",
-            "value": "1310392234",
+            "value": "1310392234 1395730131",
             "required": true
         },
         "PICS": {
             "description": "Add some telegraph link of pictures .",
-            "value": "https://telegra.ph/file/b9aa484df70aaf6cdf84c.jpg",
+            "value": "https://telegra.ph/file/1d95fb2caa8ce02e04edd.jpg",
             "required": false
         },
         "LOG_CHANNEL": {
             "description": "Bot Logs,Give a channel id with -100xxxxxxx",
-            "value": "-1001860290002",
+            "value": "-1001959173522",
             "required": true
         },
         "AUTH_USERS": {
@@ -59,7 +59,7 @@
         },
         "AUTH_CHANNEL": {
             "description": "ID of channel.Make sure bot is admin in this channel. Without subscribing this channel users cannot use bot.",
-            "value": "-1001767321870",
+            "value": "-1001721798758",
             "required": false
         },
         "DATABASE_URI": {

@@ -84,7 +84,7 @@
         },
         "STREAM_URL": {
             "description": "Your Stream FQDN URL",
-            "value": "https://filmymod123-in-6e24ca0253d9.herokuapp.com/",
+            "value": "https://stream-filmymod123-79481af90ae5.herokuapp.com/",
             "required": false
         }
     },

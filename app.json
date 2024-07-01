@@ -25,12 +25,12 @@
         },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
-            "value": "20144313",
+            "value": "29798427",
             "required": true
         },
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
-            "value": "94d0c7322f19256203e3b02d9d1eef6d",
+            "value": "b273dd0246a0e0b369c4266a3e6deb2e",
             "required": true
         },
         "CHANNELS": {
@@ -84,7 +84,7 @@
         },
         "STREAM_URL": {
             "description": "Your Stream FQDN URL",
-            "value": "https://stream-filmymod123-79481af90ae5.herokuapp.com/",
+            "value": "https://filmymod123-7527bf26678e.herokuapp.com/",
             "required": false
         }
     },
